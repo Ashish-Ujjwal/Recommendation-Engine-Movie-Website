@@ -51,7 +51,7 @@ Home
 
 ![image](https://user-images.githubusercontent.com/84794183/171406748-99d789af-5203-4f65-ae7f-a0f9b735465c.png)
 ![image](https://user-images.githubusercontent.com/84794183/171406921-b86cf611-2751-4792-87f3-3af075999a75.png)
-![image](https://user-images.githubusercontent.com/84794183/171405950-785edae3-c717-4505-b7db-925d5ae12d27.png)
+![image](https://github.com/Ashish-Ujjwal/Recommendation-Engine-Movie-Website/blob/main/FrontEnd-%20React/Images/image.png)
 
 Movies & TV series catlog
 
