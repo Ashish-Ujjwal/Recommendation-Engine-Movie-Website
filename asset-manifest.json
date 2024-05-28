@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Recommendation-Engine-Movie-Website/static/css/main.cfce9d66.chunk.css",
+    "main.js": "/Recommendation-Engine-Movie-Website/static/js/main.c096acb8.chunk.js",
+    "main.js.map": "/Recommendation-Engine-Movie-Website/static/js/main.c096acb8.chunk.js.map",
+    "runtime-main.js": "/Recommendation-Engine-Movie-Website/static/js/runtime-main.1c6116db.js",
+    "runtime-main.js.map": "/Recommendation-Engine-Movie-Website/static/js/runtime-main.1c6116db.js.map",
+    "static/css/2.a93db93c.chunk.css": "/Recommendation-Engine-Movie-Website/static/css/2.a93db93c.chunk.css",
+    "static/js/2.5ec64115.chunk.js": "/Recommendation-Engine-Movie-Website/static/js/2.5ec64115.chunk.js",
+    "static/js/2.5ec64115.chunk.js.map": "/Recommendation-Engine-Movie-Website/static/js/2.5ec64115.chunk.js.map",
+    "index.html": "/Recommendation-Engine-Movie-Website/index.html",
+    "static/css/2.a93db93c.chunk.css.map": "/Recommendation-Engine-Movie-Website/static/css/2.a93db93c.chunk.css.map",
+    "static/css/main.cfce9d66.chunk.css.map": "/Recommendation-Engine-Movie-Website/static/css/main.cfce9d66.chunk.css.map",
+    "static/js/2.5ec64115.chunk.js.LICENSE.txt": "/Recommendation-Engine-Movie-Website/static/js/2.5ec64115.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/Recommendation-Engine-Movie-Website/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/Recommendation-Engine-Movie-Website/static/media/footer-bg.67e95f05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c6116db.js",
+    "static/css/2.a93db93c.chunk.css",
+    "static/js/2.5ec64115.chunk.js",
+    "static/css/main.cfce9d66.chunk.css",
+    "static/js/main.c096acb8.chunk.js"
+  ]
+}
